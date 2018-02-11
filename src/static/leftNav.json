@@ -1,0 +1,15 @@
+[
+  {
+    "key": "switcher",
+    "name": "表格"
+  }, {
+    "key": "user",
+    "name": "个人中心"
+  }, {
+    "key": "dot-chart",
+    "name": "数学图形"
+  },{
+    "key": "charts",
+    "name": "D3.js图库"
+  }
+]

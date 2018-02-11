@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+@import './style/common.css';
+@import './style/home.css';
+@import './style/tables.css';
+@import './style/charts.css';
