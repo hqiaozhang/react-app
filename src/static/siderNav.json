@@ -1,0 +1,53 @@
+[
+  {
+    "key": "user",
+    "name": "个人中心"
+  }, 
+  {
+    "key": "switcher",
+    "name": "表格",
+    "child": [
+      {
+        "name": "简单表格",
+        "key": "tables"
+      },
+      {
+        "name": "简单异步表格",
+        "key": "asyc-tables"
+      }
+    ]
+  }, 
+  {
+    "name": "D3.js图库",
+    "key": "dot-chart",
+    "child": [
+      {
+        "name": "柱状图",
+        "key": "d3-charts-bar"
+      },
+      {
+        "key": "d3-charts-pie",
+        "name": "饼图"
+      },
+      {
+        "key": "d3-charts-area",
+        "name": "面积图"
+      },
+      {
+        "key": "d3-charts-line",
+        "name": "拆线图"
+      },
+      {
+        "key": "d3-charts-radar",
+        "name": "雷达图"
+      }
+    ]
+  }, 
+  {
+    "key": "bar-chart",
+    "name": "zRender图库",
+    "child":[
+      
+    ]
+  }
+]
